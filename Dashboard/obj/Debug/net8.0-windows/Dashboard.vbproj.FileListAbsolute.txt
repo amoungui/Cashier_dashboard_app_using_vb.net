@@ -1,0 +1,17 @@
+C:\Users\Amoungui\Documents\ISTAG\niveau II\Développement d'application\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.Dashboard.resources
+C:\Users\Amoungui\Documents\ISTAG\niveau II\Développement d'application\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.vbproj.GenerateResource.cache
+C:\Users\Amoungui\Documents\ISTAG\niveau II\Développement d'application\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amoungui\Documents\ISTAG\niveau II\Développement d'application\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.AssemblyInfoInputs.cache
+C:\Users\Amoungui\Documents\ISTAG\niveau II\Développement d'application\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.AssemblyInfo.vb
+C:\Users\Amoungui\Documents\ISTAG\niveau II\Développement d'application\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.vbproj.CoreCompileInputs.cache
+C:\Users\Amoungui\Documents\ISTAG\niveau II\Développement d'application\Dashboard\Dashboard\bin\Debug\net8.0-windows\Dashboard.exe
+C:\Users\Amoungui\Documents\ISTAG\niveau II\Développement d'application\Dashboard\Dashboard\bin\Debug\net8.0-windows\Dashboard.deps.json
+C:\Users\Amoungui\Documents\ISTAG\niveau II\Développement d'application\Dashboard\Dashboard\bin\Debug\net8.0-windows\Dashboard.runtimeconfig.json
+C:\Users\Amoungui\Documents\ISTAG\niveau II\Développement d'application\Dashboard\Dashboard\bin\Debug\net8.0-windows\Dashboard.dll
+C:\Users\Amoungui\Documents\ISTAG\niveau II\Développement d'application\Dashboard\Dashboard\bin\Debug\net8.0-windows\Dashboard.pdb
+C:\Users\Amoungui\Documents\ISTAG\niveau II\Développement d'application\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.dll
+C:\Users\Amoungui\Documents\ISTAG\niveau II\Développement d'application\Dashboard\Dashboard\obj\Debug\net8.0-windows\refint\Dashboard.dll
+C:\Users\Amoungui\Documents\ISTAG\niveau II\Développement d'application\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.pdb
+C:\Users\Amoungui\Documents\ISTAG\niveau II\Développement d'application\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.genruntimeconfig.cache
+C:\Users\Amoungui\Documents\ISTAG\niveau II\Développement d'application\Dashboard\Dashboard\obj\Debug\net8.0-windows\ref\Dashboard.dll
+C:\Users\Amoungui\Documents\ISTAG\niveau II\Développement d'application\Dashboard\Dashboard\obj\Debug\net8.0-windows\Dashboard.Resources.resources
