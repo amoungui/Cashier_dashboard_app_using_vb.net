@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Amoungui\\Documents\\ISTAG\\niveau II\\D\u00E9veloppement d\u0027application\\Dashboard\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{01384EE9-9C13-4FC1-B851-82544C2F8EE8}|Dashboard\\Dashboard.vbproj|c:\\users\\amoungui\\documents\\istag\\niveau ii\\d\u00E9veloppement d\u0027application\\dashboard\\dashboard\\usercontrolhomepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{01384EE9-9C13-4FC1-B851-82544C2F8EE8}|Dashboard\\Dashboard.vbproj|solutionrelative:dashboard\\usercontrolhomepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01384EE9-9C13-4FC1-B851-82544C2F8EE8}|Dashboard\\Dashboard.vbproj|c:\\users\\amoungui\\documents\\istag\\niveau ii\\d\u00E9veloppement d\u0027application\\dashboard\\dashboard\\usercontrolhomepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{01384EE9-9C13-4FC1-B851-82544C2F8EE8}|Dashboard\\Dashboard.vbproj|solutionrelative:dashboard\\usercontrolhomepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01384EE9-9C13-4FC1-B851-82544C2F8EE8}|Dashboard\\Dashboard.vbproj|c:\\users\\amoungui\\documents\\istag\\niveau ii\\d\u00E9veloppement d\u0027application\\dashboard\\dashboard\\usercontrolmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{01384EE9-9C13-4FC1-B851-82544C2F8EE8}|Dashboard\\Dashboard.vbproj|solutionrelative:dashboard\\usercontrolmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01384EE9-9C13-4FC1-B851-82544C2F8EE8}|Dashboard\\Dashboard.vbproj|c:\\users\\amoungui\\documents\\istag\\niveau ii\\d\u00E9veloppement d\u0027application\\dashboard\\dashboard\\usercontrolcharts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{01384EE9-9C13-4FC1-B851-82544C2F8EE8}|Dashboard\\Dashboard.vbproj|solutionrelative:dashboard\\usercontrolcharts.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01384EE9-9C13-4FC1-B851-82544C2F8EE8}|Dashboard\\Dashboard.vbproj|c:\\users\\amoungui\\documents\\istag\\niveau ii\\d\u00E9veloppement d\u0027application\\dashboard\\dashboard\\usercontrolmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{01384EE9-9C13-4FC1-B851-82544C2F8EE8}|Dashboard\\Dashboard.vbproj|solutionrelative:dashboard\\usercontrolmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{01384EE9-9C13-4FC1-B851-82544C2F8EE8}|Dashboard\\Dashboard.vbproj|c:\\users\\amoungui\\documents\\istag\\niveau ii\\d\u00E9veloppement d\u0027application\\dashboard\\dashboard\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{01384EE9-9C13-4FC1-B851-82544C2F8EE8}|Dashboard\\Dashboard.vbproj|solutionrelative:dashboard\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{01384EE9-9C13-4FC1-B851-82544C2F8EE8}|Dashboard\\Dashboard.vbproj|c:\\users\\amoungui\\documents\\istag\\niveau ii\\d\u00E9veloppement d\u0027application\\dashboard\\dashboard\\dashboard.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{01384EE9-9C13-4FC1-B851-82544C2F8EE8}|Dashboard\\Dashboard.vbproj|solutionrelative:dashboard\\dashboard.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{01384EE9-9C13-4FC1-B851-82544C2F8EE8}|Dashboard\\Dashboard.vbproj|c:\\users\\amoungui\\documents\\istag\\niveau ii\\d\u00E9veloppement d\u0027application\\dashboard\\dashboard\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{01384EE9-9C13-4FC1-B851-82544C2F8EE8}|Dashboard\\Dashboard.vbproj|solutionrelative:dashboard\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01384EE9-9C13-4FC1-B851-82544C2F8EE8}|Dashboard\\Dashboard.vbproj|c:\\users\\amoungui\\documents\\istag\\niveau ii\\d\u00E9veloppement d\u0027application\\dashboard\\dashboard\\usercontrolinvoice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{01384EE9-9C13-4FC1-B851-82544C2F8EE8}|Dashboard\\Dashboard.vbproj|solutionrelative:dashboard\\usercontrolinvoice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01384EE9-9C13-4FC1-B851-82544C2F8EE8}|Dashboard\\Dashboard.vbproj|c:\\users\\amoungui\\documents\\istag\\niveau ii\\d\u00E9veloppement d\u0027application\\dashboard\\dashboard\\usercontrolcart.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{01384EE9-9C13-4FC1-B851-82544C2F8EE8}|Dashboard\\Dashboard.vbproj|solutionrelative:dashboard\\usercontrolcart.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +50,127 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControlHomePage.vb",
+              "DocumentMoniker": "C:\\Users\\Amoungui\\Documents\\ISTAG\\niveau II\\D\u00E9veloppement d\u0027application\\Dashboard\\Dashboard\\UserControlHomePage.vb",
+              "RelativeDocumentMoniker": "Dashboard\\UserControlHomePage.vb",
+              "ToolTip": "C:\\Users\\Amoungui\\Documents\\ISTAG\\niveau II\\D\u00E9veloppement d\u0027application\\Dashboard\\Dashboard\\UserControlHomePage.vb",
+              "RelativeToolTip": "Dashboard\\UserControlHomePage.vb",
+              "ViewState": "AgIAALYAAAAAAAAAAAAswMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-24T21:00:39.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControlManager.vb",
+              "DocumentMoniker": "C:\\Users\\Amoungui\\Documents\\ISTAG\\niveau II\\D\u00E9veloppement d\u0027application\\Dashboard\\Dashboard\\UserControlManager.vb",
+              "RelativeDocumentMoniker": "Dashboard\\UserControlManager.vb",
+              "ToolTip": "C:\\Users\\Amoungui\\Documents\\ISTAG\\niveau II\\D\u00E9veloppement d\u0027application\\Dashboard\\Dashboard\\UserControlManager.vb",
+              "RelativeToolTip": "Dashboard\\UserControlManager.vb",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAcwKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-23T20:53:08.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControlCharts.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\Amoungui\\Documents\\ISTAG\\niveau II\\D\u00E9veloppement d\u0027application\\Dashboard\\Dashboard\\UserControlCharts.vb",
+              "RelativeDocumentMoniker": "Dashboard\\UserControlCharts.vb",
+              "ToolTip": "C:\\Users\\Amoungui\\Documents\\ISTAG\\niveau II\\D\u00E9veloppement d\u0027application\\Dashboard\\Dashboard\\UserControlCharts.vb [Conception]",
+              "RelativeToolTip": "Dashboard\\UserControlCharts.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-23T18:25:55.895Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserControlHomePage.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\Amoungui\\Documents\\ISTAG\\niveau II\\D\u00E9veloppement d\u0027application\\Dashboard\\Dashboard\\UserControlHomePage.vb",
+              "RelativeDocumentMoniker": "Dashboard\\UserControlHomePage.vb",
+              "ToolTip": "C:\\Users\\Amoungui\\Documents\\ISTAG\\niveau II\\D\u00E9veloppement d\u0027application\\Dashboard\\Dashboard\\UserControlHomePage.vb [Conception]",
+              "RelativeToolTip": "Dashboard\\UserControlHomePage.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-23T18:26:12.759Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserControlManager.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\Amoungui\\Documents\\ISTAG\\niveau II\\D\u00E9veloppement d\u0027application\\Dashboard\\Dashboard\\UserControlManager.vb",
+              "RelativeDocumentMoniker": "Dashboard\\UserControlManager.vb",
+              "ToolTip": "C:\\Users\\Amoungui\\Documents\\ISTAG\\niveau II\\D\u00E9veloppement d\u0027application\\Dashboard\\Dashboard\\UserControlManager.vb [Conception]",
+              "RelativeToolTip": "Dashboard\\UserControlManager.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-23T18:28:53.535Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Form1.vb",
               "DocumentMoniker": "C:\\Users\\Amoungui\\Documents\\ISTAG\\niveau II\\D\u00E9veloppement d\u0027application\\Dashboard\\Dashboard\\Form1.vb",
               "RelativeDocumentMoniker": "Dashboard\\Form1.vb",
               "ToolTip": "C:\\Users\\Amoungui\\Documents\\ISTAG\\niveau II\\D\u00E9veloppement d\u0027application\\Dashboard\\Dashboard\\Form1.vb",
               "RelativeToolTip": "Dashboard\\Form1.vb",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-10-23T11:44:37.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T18:53:17.139Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "Dashboard.vbproj",
+              "DocumentMoniker": "C:\\Users\\Amoungui\\Documents\\ISTAG\\niveau II\\D\u00E9veloppement d\u0027application\\Dashboard\\Dashboard\\Dashboard.vbproj",
+              "RelativeDocumentMoniker": "Dashboard\\Dashboard.vbproj",
+              "ToolTip": "C:\\Users\\Amoungui\\Documents\\ISTAG\\niveau II\\D\u00E9veloppement d\u0027application\\Dashboard\\Dashboard\\Dashboard.vbproj",
+              "RelativeToolTip": "Dashboard\\Dashboard.vbproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-10-23T18:11:02.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Form1.vb [Conception]",
               "DocumentMoniker": "C:\\Users\\Amoungui\\Documents\\ISTAG\\niveau II\\D\u00E9veloppement d\u0027application\\Dashboard\\Dashboard\\Form1.vb",
               "RelativeDocumentMoniker": "Dashboard\\Form1.vb",
               "ToolTip": "C:\\Users\\Amoungui\\Documents\\ISTAG\\niveau II\\D\u00E9veloppement d\u0027application\\Dashboard\\Dashboard\\Form1.vb [Conception]",
               "RelativeToolTip": "Dashboard\\Form1.vb [Conception]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-10-23T10:16:14.574Z",
+              "WhenOpened": "2024-10-23T18:11:34.412Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserControlInvoice.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\Amoungui\\Documents\\ISTAG\\niveau II\\D\u00E9veloppement d\u0027application\\Dashboard\\Dashboard\\UserControlInvoice.vb",
+              "RelativeDocumentMoniker": "Dashboard\\UserControlInvoice.vb",
+              "ToolTip": "C:\\Users\\Amoungui\\Documents\\ISTAG\\niveau II\\D\u00E9veloppement d\u0027application\\Dashboard\\Dashboard\\UserControlInvoice.vb [Conception]",
+              "RelativeToolTip": "Dashboard\\UserControlInvoice.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-23T18:28:21.871Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserControlCart.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\Amoungui\\Documents\\ISTAG\\niveau II\\D\u00E9veloppement d\u0027application\\Dashboard\\Dashboard\\UserControlCart.vb",
+              "RelativeDocumentMoniker": "Dashboard\\UserControlCart.vb",
+              "ToolTip": "C:\\Users\\Amoungui\\Documents\\ISTAG\\niveau II\\D\u00E9veloppement d\u0027application\\Dashboard\\Dashboard\\UserControlCart.vb [Conception]",
+              "RelativeToolTip": "Dashboard\\UserControlCart.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-23T18:22:42.422Z",
               "EditorCaption": " [Conception]"
             }
           ]

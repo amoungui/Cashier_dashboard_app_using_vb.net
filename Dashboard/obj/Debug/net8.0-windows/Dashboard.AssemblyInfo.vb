@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Dashboard"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a3bf29bb4e5c59cf5de07d058e2e76aa7b43526"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Dashboard"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Dashboard"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
